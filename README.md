@@ -1,1 +1,1 @@
-# work1[![Gitter](https://badges.gitter.im/Join Chat.svg)](聊天室 URL)
+[![Gitter](https://github.com/gdmec07150939/work1]
